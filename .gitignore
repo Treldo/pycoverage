@@ -1,0 +1,5 @@
+__pycache__
+trace_result.txt
+coverage.txt
+analyse_result.txt
+.DS_Store
