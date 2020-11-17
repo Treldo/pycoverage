@@ -1,0 +1,9 @@
+This project is a python3 version of https://github.com/Jancy1072/pycoverage, rewrite source in python3.
+
+Thanks to https://github.com/Jancy1072.
+
+To learn Python code object,
+look https://pycoders-weekly-chinese.readthedocs.io/en/latest/issue7/exploring-python-code-objects.html
+
+To learn tracing,
+look https://pymotw.com/3/sys/tracing.html
